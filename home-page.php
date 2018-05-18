@@ -2,6 +2,8 @@
 
 /*
 	Template Name: Page Home
+	
+	@package Faben Haute Couture Template
 */
 
 	get_header();
