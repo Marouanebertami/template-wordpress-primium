@@ -1,6 +1,9 @@
 <?php 
 
 /*
+
+	@package Faben Haute Couture Template
+	
 	==================
 		Admin page
 	==================
