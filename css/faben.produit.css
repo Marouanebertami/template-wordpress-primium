@@ -1,0 +1,10 @@
+.form-table .produit-img{
+	width: 75%;
+    height: 250px;
+    margin-bottom: 5px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.form-table input[type=text]{
+	width: 75%;
+}

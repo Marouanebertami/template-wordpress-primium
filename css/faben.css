@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro|Maitree|Nanum+Gothic:800');
+
+.header-container{
+	width: 100%;
+	height: 670px;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    background-attachment: fixed;
+}
+
+.video{
+	position: fixed;
+}
+
+.header-content{
+	position: relative;
+	display: table;
+	width: 100%;
+    height: 100%;
+
+}
+
+.table-cell{
+	display: table-cell;
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.header-content h1{
+	margin: 0 !important;
+}
+
+.header-content img{
+	display: table;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#menu-header{
+	text-align: center;
+	float: none;
+}
+
+#menu-header li{
+	float: none;
+    display: inline-block;
+	margin: 0 30px;
+    text-transform: uppercase;
+}
+
+#menu-header li a{
+	color: #000;
+	font-family: 'Source Sans Pro', sans-serif;
+	    font-size: 18px;
+}
+
+.navbar-default{
+	height: 80px;
+	background-color: #f8f8f887;
+    border-color: #e7e7e78a;
+}
+
+.collapse{
+	margin: 15px 0;
+}
+h1{
+	color: #fff;
+	font-family: 'Nanum Gothic', sans-serif;
+	text-transform: uppercase;
+}
+
+.quis{
+	background-color: #caa351 !important;
+    color: #fff !important;
+	padding: 30px;
+}
+
+
+
+/* calendar widget */
+.widget_calendar {float: left;}
+#wp-calendar {width: 100%; }
+#wp-calendar caption { text-align: right; color: #caa351; font-size: 12px; margin-top: 10px; margin-bottom: 15px; }
+#wp-calendar thead { font-size: 10px; }
+#wp-calendar thead th { padding-bottom: 10px; color: #caa351;}
+#wp-calendar tbody { color: #aaa; }
+#wp-calendar tbody td { background: #f5f5f5; border: 1px solid #fff; text-align: center; padding:8px;}
+#wp-calendar tbody td:hover { background: #fff; }
+#wp-calendar tbody .pad { background: none; }
+#wp-calendar tfoot #next { font-size: 10px; text-transform: uppercase; text-align: right; }
+#wp-calendar tfoot #prev { font-size: 10px; text-transform: uppercase; padding-top: 10px; }
+
+/* menu widget */
+#pages-2 ul{list-style: none;margin: 0;padding: 0;}
+#pages-2 ul li a{text-decoration: none;color: #caa351;}
+#pages-2 li{padding: 10px 0;}
+
+/* widget */
+.widget-title{color: #fff; text-transform: uppercase;font-family: 'Maitree', serif;}
+
+/* footer */
+.footer-copy{background: #46340d;padding: 15px;color: #fff;font-family: 'Maitree', serif;}

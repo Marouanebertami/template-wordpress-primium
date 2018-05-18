@@ -1,0 +1,14 @@
+/*
+	style admin
+*/
+
+.form-table .header-logo{
+	width: 50%;
+    height: 110px;
+    margin-bottom: 5px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.form-table input[type=text]{
+	width: 75%;
+}
