@@ -2,7 +2,7 @@
 
 /*
 
-	@package faben_theme
+	@package Faben Haute Couture Template
 
 	===============================
 		Admin Enqueue Fonctions
