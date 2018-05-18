@@ -1,4 +1,9 @@
 <?php
+/*
+
+	@package Faben Haute Couture Template
+
+*/
 
 // Activate Nav Menu Option
 
