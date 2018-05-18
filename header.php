@@ -2,7 +2,7 @@
 	/*
 		this is the template for the header
 
-		@package faben Haute Couture Template
+		@package Faben Haute Couture Template
 	*/
 ?>
 <!DOCTYPE html>
