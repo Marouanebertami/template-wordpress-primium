@@ -2,6 +2,8 @@
 
 /*
 	Template Name: Qui Somme Nous?
+	
+	@package Faben Haute Couture Template
 */
 get_header(); ?>
 <?php $logo = esc_html(get_option( 'header_img' ) ); ?>
