@@ -2,7 +2,7 @@
 	/*
 		this is the template for the footer
 
-		@package fabentheme
+		@package Faben Haute Couture Template
 	*/
 ?>
 
